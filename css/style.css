@@ -1,0 +1,86 @@
+/* NAVBAR */
+
+.navb {
+    padding:            40px;
+}
+
+.navig {
+    margin-left:        80vh;
+}
+
+.elem1 {
+    margin-left:        5em;
+}
+
+/* NAVBAR */
+
+/* MAIN */
+
+#graytext {
+    color:              gray;
+}
+
+.image4m {
+    width: 100%;
+}
+
+.image4m2 {
+    width: 96%;
+}
+
+.image4m3 {
+    width: 96%;
+}
+
+.box1 {
+    
+    width: 50%;
+}
+
+.sign {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.box {
+    background-color: rgb(230, 230, 230);
+    padding: 50px;
+    height: 40vh;
+}
+
+.inputline {
+    text-align: center;
+    width: 160px;
+}
+
+.box3 {
+    display: flex;
+    align-items: center;
+    width: 200px;
+    flex-direction: column;
+    
+}
+
+.bb {
+    height: 200px;
+    
+    
+    
+}
+
+.btn {
+    margin-top: 150px;
+    margin-left: 490px;
+}
+
+.box4 {
+    background-color: rgb(230, 230, 230);
+    padding:50px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    
+}
